@@ -1368,6 +1368,7 @@ PRODUCT_PACKAGES += \
     CACertService \
     CneApp \
     IWlanService \
+    PowerOffAlarm \
     TimeService \
     pasrservice \
     DeviceInfo \
